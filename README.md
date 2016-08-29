@@ -1,7 +1,7 @@
 
 仿微信的选择多张图片上传
 ![](https://github.com/wanglyGithub/MuiltiFileUpload/blob/master/preview/test.png)  
-在这里只是想上传功能！
+在这里只做上传功能！界面的选择效果可以参考https://github.com/liuling07/PhotoPicker
 结合
 	httpcore-4.0.1.jar
 	httpmime-4.1.2.jar
