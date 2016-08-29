@@ -1,3 +1,7 @@
+
+仿微信的选择多张图片上传
+![](https://github.com/wanglyGithub/MuiltiFileUpload/blob/master/preview/test.png)  
+在这里只是想上传功能！
 结合
 	httpcore-4.0.1.jar
 	httpmime-4.1.2.jar
